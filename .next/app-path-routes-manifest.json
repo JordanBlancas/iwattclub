@@ -1,0 +1,10 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/health/route": "/api/health",
+  "/educacion/page": "/educacion",
+  "/dashboard/devices/[id]/page": "/dashboard/devices/[id]",
+  "/dashboard/page": "/dashboard",
+  "/comunidad/page": "/comunidad",
+  "/retos/page": "/retos",
+  "/page": "/"
+}
