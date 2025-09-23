@@ -12,7 +12,10 @@ out/
 .next/
 
 # Development
+# local env files
 .env*.local
+
+# Production env (using Vercel environment variables instead)
 
 # Testing
 coverage/
